@@ -48,7 +48,7 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 
 Here is a random GIF as a placeholder.
 
-![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) -->
+![tone classifier](https://github.com/SidtheKidx/tone-classification-CadenceIQ/blob/main/ezgif.com-gif-maker.gif)
 
 # Table of contents
 
