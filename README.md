@@ -38,17 +38,9 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 ![Tweet](https://img.shields.io/twitter/url?style=flat-square&logo=twitter&url=https%3A%2F%2Fnavendu.me%2Fnsfw-filter%2Findex.html): This is not essential but it is a cool way to let others know about your project! Clicking this button automatically opens twitter and writes a tweet about your project and link to it. All the user has to do is to click tweet. Isn't that neat? -->
 
 # Objective
-
-
+To extract contextual tones from sales conversations that helps SDRs to derive a distribution of tones that work best on their prospects. SDRs can uncover conversational trends thereby driving sales conversions. _The algorithm works on top of BERT transformers and pytorch library._
 # Demo-Preview
-
-<!-- Add a demo for your project -->
-
-<!-- After you have written about your project, it is a good idea to have a demo/preview(**video/gif/screenshots** are good options) of your project so that people can know what to expect in your project. You could also add the demo in the previous section with the product description.
-
-Here is a random GIF as a placeholder.
-
-![tone classifier](https://github.com/SidtheKidx/tone-classification-CadenceIQ/blob/main/ezgif.com-gif-maker.gif?raw=true)
+![tone-classifier](https://github.com/SidtheKidx/tone-classification-CadenceIQ/blob/main/ezgif.com-gif-maker.gif?raw=true)
 
 # Table of contents
 
