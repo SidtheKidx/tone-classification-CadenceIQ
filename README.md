@@ -1,8 +1,8 @@
-# Tone Classification-CadenceIQ
-<!-- Add banner here -->
+# Project Title
+**Tone Classification-CadenceIQ**<!-- Add banner here -->
 
 <!-- Add buttons here -->
-This is a multi-label classification of tones for sales intelligence platform CadenceIQ using BERT Transformers + PyTorch
+This is a multi-label classification of tones for sales intelligence platform CadenceIQ using BERT Transformers + PyTorch.
 
 <!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
 
@@ -37,10 +37,11 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 
 ![Tweet](https://img.shields.io/twitter/url?style=flat-square&logo=twitter&url=https%3A%2F%2Fnavendu.me%2Fnsfw-filter%2Findex.html): This is not essential but it is a cool way to let others know about your project! Clicking this button automatically opens twitter and writes a tweet about your project and link to it. All the user has to do is to click tweet. Isn't that neat? -->
 
-# Objective
-To extract contextual tones from sales conversations that helps SDRs to derive a distribution of tones that work best on their prospects. SDRs can uncover conversational trends thereby driving sales conversions. _The algorithm works on top of BERT transformers and pytorch library._
 # Demo-Preview
 ![tone-classifier](https://github.com/SidtheKidx/tone-classification-CadenceIQ/blob/main/ezgif.com-gif-maker.gif?raw=true)
+
+# Objective
+To extract contextual tones from sales conversations that helps SDRs to derive a distribution of tones that work best on their prospects. SDRs can uncover conversational trends thereby driving sales conversions. _The algorithm works on top of BERT transformers and pytorch library.
 
 # Table of contents
 
